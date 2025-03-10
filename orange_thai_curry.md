@@ -8,7 +8,7 @@
 - 2 parsnips, cut into strips  
 - 100 g green beans, chopped  
 - 1 leek, sliced  
-- 2 tbsp yellow curry paste  
+- 2 tbsp yellow curry paste (Cock Brand, "Gelbe Curry Paste")
 - 1 can tomatoes (400 g)  
 - 1 can coconut milk (400 ml)  
 - 1 tbsp oil  
@@ -34,3 +34,4 @@
 > Shoutout to Janine for this tasty recipe!  
 
 ![Orange Thai Curry](pictures/orange_thai_curry.png)  
+![Cock Brand, "Gelbe Curry Paste"](pictures/cock_brand_gelbe_curry_paste.png)
