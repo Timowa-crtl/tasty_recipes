@@ -1,8 +1,5 @@
 # Chocolate-Cherry Cream Cake on Almond Base  
 
-## Acknowledgment  
-> Shoutout to my mum for this tasty recipe!
-
 ## Almond Base  
 ### Ingredients:  
 - 80 g butter  
@@ -36,6 +33,9 @@
 4. Spread the whipped cream on top.  
 5. Decorate with chocolate sprinkles and 12 cherries.  
 
-Tip: Let the cake sit in the fridge for a few hours before serving.
+> Tip: Let the cake sit in the fridge for a few hours before serving.
+
+## Acknowledgment  
+> Shoutout to my mum for this tasty recipe!
 
 ![Chocolate Cherry Cream Cake](pictures/chocolate_cherry_cream_cake_on_almond_base.png)
