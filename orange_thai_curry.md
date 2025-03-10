@@ -26,9 +26,9 @@
 10. Just before serving, add the remaining coconut milk and mix well.  
 11. Season with salt and pepper to taste. Serve hot with basmati rice.  
 
-> **Tip:** Adding the full coconut milk too early weakens its flavor—always reserve most of it until the end.  
-> **Tip:** Stir-frying the vegetables first enhances their taste and keeps them crisp.  
-> **Tip:** Best enjoyed with basmati rice.  
+> **Tip:** Adding the full coconut milk too early weakens its flavor—always reserve most of it until the end.
+
+> **Tip:** Stir-frying the vegetables first enhances their taste. Don't cook to long - let them stay crisp!
 
 ## Acknowledgment  
 > Shoutout to Janine for this tasty recipe!
