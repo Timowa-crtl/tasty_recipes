@@ -1,5 +1,8 @@
 # Chocolate-Cherry Cream Cake on Almond Base  
 
+## Acknowledgment  
+> Shoutout to my mum for this tasty recipe!
+
 ## Almond Base  
 ### Ingredients:  
 - 80 g butter  
