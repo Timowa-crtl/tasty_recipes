@@ -33,5 +33,5 @@
 ## Acknowledgment  
 > Shoutout to Janine for this tasty recipe!  
 
-<img src="pictures/orange_thai_curry.png" alt="Orange Thai Curry" width="300">
-<img src="pictures/cock_brand_gelbe_curry_paste.png" alt="Cock Brand, Gelbe Curry Paste" width="300">
+<img src="pictures/orange_thai_curry.png" alt="Orange Thai Curry" width="600">
+<img src="pictures/cock_brand_gelbe_curry_paste.png" alt="Cock Brand, Gelbe Curry Paste" width="100">
