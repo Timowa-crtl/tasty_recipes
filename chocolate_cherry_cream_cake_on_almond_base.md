@@ -1,4 +1,4 @@
-# Chocolate-Cherry Cream Cake on Almond Base  
+# Chocolate Cherry Cream Cake on Almond Base  
 
 ## Almond Base  
 ### Ingredients:  
