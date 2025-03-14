@@ -7,3 +7,4 @@ Only tasty recipes here.
 - [Shacky Apple Pancakes](shacky_pancakes.md)
 
 More coming soon.
+Please [contribute](CONTRIBUTING.md) your own tasty recipes!
