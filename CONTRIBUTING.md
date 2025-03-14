@@ -30,7 +30,8 @@
 
 ## Guidelines
 
-- Submit only tested recipes
+- Submit only tasty recipes
+- Language: Englisch
 - Be precise with measurements
 - Add images to the `pictures` folder and reference as `![description](pictures/image.jpg)`
 
