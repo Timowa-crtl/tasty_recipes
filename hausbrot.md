@@ -38,9 +38,9 @@
 7. Backofen inkl. Pfanne auf 250 °C vorheizen  
 
 ### Backen:
-1. Teig in heiße Pfanne geben  
+1. Teig in heiße Pfanne geben
+   > Tipp: Sofort etwas heißes Wasser in den Ofen geben → Dampf  
 2. 10 min bei 250 °C backen  
-   > Tipp: Etwas Wasser in den Ofen geben → Dampf  
 3. Weitere 40–50 min bei 210 °C backen  
 4. Brot auf einem Gitter auskühlen lassen  
 
