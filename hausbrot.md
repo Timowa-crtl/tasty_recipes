@@ -29,17 +29,16 @@
 2. 50 g für nächste Kultur abnehmen → Kühlschrank  
 
 > Optional: Nüsse, Samen oder Kümmel unterrühren  
-> Optional: 100–300 g Roggenmehl + gleich viel Wasser zugeben  
+> Optional: 100–300 g Roggenmehl + gleich viel Wasser zugeben und verrühren
 
 3. 1 h bei Raumtemperatur ruhen lassen  
 4. Teig mit Gummifotze rundformen, gut bemehlen  
 5. In bemehltes Gärkörbchen legen  
-6. 1 h inkubieren  
-7. Backofen inkl. Pfanne auf 250 °C vorheizen  
+6. 1 h bei Raumtemperatur ruhen lassen & währendessen Backofen inkl. Pfanne auf 250 °C vorheizen  
 
 ### Backen:
 1. Teig in heiße Pfanne geben
-   > Tipp: Sofort etwas heißes Wasser in den Ofen geben → Dampf  
+   > Tipp: Sofort etwas heißes Wasser in den Ofen geben (z.B. auf heißes Backblech) → Wasserdampf sorgt für knackige       Brotkruste  
 2. 10 min bei 250 °C backen  
 3. Weitere 40–50 min bei 210 °C backen  
 4. Brot auf einem Gitter auskühlen lassen  
