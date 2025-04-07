@@ -38,7 +38,8 @@
 
 ### Backen:
 1. Teig in heiße Pfanne geben
-   > Tipp: Sofort etwas heißes Wasser in den Ofen geben (z.B. auf heißes Backblech) → Wasserdampf sorgt für knackige       Brotkruste  
+   > Tipp: Sofort etwas heißes Wasser in den Ofen geben (z.B. auf heißes Backblech)
+   > → Wasserdampf sorgt für knackige Brotkruste  
 2. 10 min bei 250 °C backen  
 3. Weitere 40–50 min bei 210 °C backen  
 4. Brot auf einem Gitter auskühlen lassen  
