@@ -45,7 +45,7 @@
 4. Brot auf einem Gitter auskühlen lassen  
 
 ## Acknowledgment
-> None
+> Shoutout and thanks to [Lutz Geißler](https://www.ploetzblog.de/)
 
 ![Brot in Pfanne](pictures/hausbrot_in_pfanne.jpg)
 
