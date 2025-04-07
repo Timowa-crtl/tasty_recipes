@@ -46,3 +46,6 @@
 
 ## Acknowledgment
 > None
+
+![Brot in Pfanne](pictures/hausbrot_in_pfanne.jpg)
+
