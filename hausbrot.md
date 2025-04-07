@@ -42,7 +42,7 @@
    > → Wasserdampf sorgt für knackige Brotkruste  
 2. 10 min bei 250 °C backen  
 3. Weitere 40–50 min bei 210 °C backen  
-4. Brot auf einem Gitter auskühlen lassen  
+4. Brot auf einem Gitter auskühlen lassen (mindestens 2 h)
 
 ## Acknowledgment
 > Shoutout and thanks to [Lutz Geißler](https://www.ploetzblog.de/)
