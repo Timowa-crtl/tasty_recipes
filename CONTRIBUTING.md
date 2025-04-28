@@ -31,7 +31,7 @@
 ## Guidelines
 
 - Submit only tasty recipes
-- Language: Englisch
+- Language: English or German
 - Be precise with measurements
 - Add images to the `pictures` folder and reference as `![description](pictures/image.jpg)`
 
