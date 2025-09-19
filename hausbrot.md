@@ -17,7 +17,7 @@
 ### Zubereitung:
 1. Mehl in Schüssel abwiegen  
 2. Handwarmes Wasser zugeben  
-3. Salz angeben  
+3. Salz zugeben
 4. Mit Gummifotze zu einem Teig verrühren  
 5. Teigtemperatur prüfen (< 35 °C)  
 6. Sauerteig unterrühren  
