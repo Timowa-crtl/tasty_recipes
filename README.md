@@ -6,6 +6,9 @@ Only tasty recipes here.
 - [Orange Thai Curry](orange_thai_curry.md)
 - [Shacky Apple Pancakes](shacky_pancakes.md)
 - [Einfaches Hausbrot](hausbrot.md)
+- [Frankfurter Kranz von Oma](frankfurter_kranz.md)
+- [Rotkohl von Mama](mamas_rotkohl.md)
+- [Einfache Salatsoße](einfache_salatsoße.md)
 
 More coming soon.
 Please [contribute](CONTRIBUTING.md) your own tasty recipes!
