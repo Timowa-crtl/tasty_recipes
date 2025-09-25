@@ -33,7 +33,7 @@
 4. Schlagsahne darüber streichen.  
 5. Mit Schokoladenstreuseln und 12 Kirschen dekorieren.  
 
-> Tipp: Torte vor dem Servieren einige Stunden im Kühlschrank abkühlen lassen.
+> Tipp: Torte vor dem Servieren einige Stunden im Kühlschrank durchziehen lassen.
 
 ## Danksagung  
 > Shoutout an meine Mama für dieses leckere Rezept!
