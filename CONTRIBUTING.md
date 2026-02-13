@@ -1,38 +1,38 @@
-# Contributing to Tasty Recipe Collection
+# Zur Rezeptsammlung beitragen
 
-## How to Contribute
+## So funktioniert's
 
-1. Fork the repository
-2. Clone your fork
-3. Create a new branch: `git checkout -b add-new-recipe`
-4. Add your recipe as a .md file
-5. Commit changes: `git commit -m "Add recipe name"`
-6. Push to your fork: `git push origin add-new-recipe`
-7. Open a Pull Request
+1. Repository forken
+2. Fork klonen
+3. Neuen Branch erstellen: `git checkout -b neues-rezept`
+4. Rezept als .md-Datei hinzufügen
+5. Änderungen committen: `git commit -m "Rezeptname hinzufügen"`
+6. Zum Fork pushen: `git push origin neues-rezept`
+7. Pull Request öffnen
 
-## Recipe Format
+## Rezeptformat
 
 ```markdown
-# Recipe Name
+# Rezeptname
 
-## Ingredients
-- Item 1
-- Item 2
+## Zutaten
+- Zutat 1
+- Zutat 2
 
-## Preparation
-1. Step 1
-2. Step 2
+## Zubereitung
+1. Schritt 1
+2. Schritt 2
 
-> Optional tips
+> Optionale Tipps
 
-![picture description](pictures/image.jpg)
+![Bildbeschreibung](pictures/bild.jpg)
 ```
 
-## Guidelines
+## Richtlinien
 
-- Submit only tasty recipes
-- Language: English or German
-- Be precise with measurements
-- Add images to the `pictures` folder and reference as `![description](pictures/image.jpg)`
+- Nur leckere Rezepte einreichen
+- Sprache: Deutsch
+- Mengenangaben präzise angeben
+- Bilder im Ordner `pictures` ablegen und als `![Beschreibung](pictures/bild.jpg)` einbinden
 
-Questions? Open an issue.
+Fragen? Einfach ein Issue öffnen.
