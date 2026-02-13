@@ -1,7 +1,7 @@
-# Recipe Collection
-Only tasty recipes here.
+# Rezeptsammlung
+Nur leckere Rezepte hier.
 
-## Tasty Recipes
+## Leckere Rezepte
 - [Einfaches Hausbrot](hausbrot.md)
 - [Frankfurter Kranz von Oma](frankfurter_kranz.md)
 - [Rotkohl von Mama](mamas_rotkohl.md)
@@ -9,6 +9,7 @@ Only tasty recipes here.
 - [Oranges Thai Curry](oranges_thai_curry.md)
 - [Schokolade-Kirsch-Sahnetorte auf Mandelboden](schokolade_kirsch_sahnetorte_auf_mandelboden.md)
 - [Geschüttelte Apfel-Pfannkuchen](geschuettelte_pfannkuchen.md)
+- [Grünkohl-Linsen-Curry](gruenkohl_linsen_curry.md)
 
-More coming soon.
-Please [contribute](CONTRIBUTING.md) your own tasty recipes!
+Mehr kommt bald.
+Bitte [eigene leckere Rezepte beitragen](CONTRIBUTING.md)!
