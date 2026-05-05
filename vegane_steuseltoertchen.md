@@ -9,7 +9,7 @@
 - 12 g Trockenhefe (oder 42 g Frischhefe)
 
 ### Zubereitung:
-1. Bei Frischhefe: Hefe mit einem Löffel Zucker, etwas warmer Pflanzenmilch und einem Löffel Mehl verrühren und als Vorteig kurz gehen lassen.
+1. Hefe mit einem Löffel Zucker, etwas warmer Milch und einem Löffel Mehl verrühren und als Vorteig kurz gehen lassen.
 2. Butter schmelzen.
 3. Alle Zutaten vermengen und kneten, bis der Teig nicht mehr klebt.
 4. Abgedeckt ca. 1 Stunde bei Raumtemperatur gehen lassen.
