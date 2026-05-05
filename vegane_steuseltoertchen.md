@@ -46,11 +46,11 @@
 6. Streusel darüber verteilen.
 7. Bei 180 °C ca. 20 Minuten backen – immer nur ein Blech gleichzeitig.
 
+## Danksagung
+> Shoutout an Karolina für dieses leckere Rezept!
+
 ![Streuseltörtchen mit Beeren vor dem Backen](pictures/streuseltörtchen_beeren_vor_backen.jpg)
 
 ![Streuseltörtchen mit Beeren](pictures/streuseltörtchen_beeren_gebacken.jpg)
 
 ![Streuseltörtchen mit Rhabarber](pictures/streuseltörtchen_rhabarber.jpg)
-
-## Danksagung
-> Shoutout an Karolina für dieses leckere Rezept!
