@@ -1,4 +1,4 @@
-# Vegane Streuseltörtchen
+# Vegane Streuseltörtchen (drożdżówki)
 
 ## Hefeteig
 ### Zutaten:
