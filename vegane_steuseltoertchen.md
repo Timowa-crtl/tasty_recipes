@@ -34,6 +34,7 @@
 ## Belag
 ### Zutaten:
 - Rhabarberkompott oder klein geschnittene Äpfel
+- Alternativ: Beeren (z. B. Himbeeren, Blaubeeren)
 - Etwas Pflanzenmilch und Zucker zum Bestreichen
 
 ## Fertigstellung
@@ -41,9 +42,15 @@
 2. Teig in ca. 90 g schwere Kugeln portionieren.
 3. Jede Kugel flach drücken und einen Löffel Nussfüllung in die Mitte geben.
 4. Den Rand mit einer Mischung aus Pflanzenmilch und Zucker bestreichen.
-5. Obst (Rhabarberkompott oder Äpfel) darauf verteilen.
+5. Obst (Rhabarberkompott, Äpfel oder Beeren) darauf verteilen.
 6. Streusel darüber verteilen.
 7. Bei 180 °C ca. 20 Minuten backen – immer nur ein Blech gleichzeitig.
+
+![Streuseltörtchen mit Beeren vor dem Backen](pictures/streuseltörtchen_beeren_vor_backen.jpg)
+
+![Streuseltörtchen mit Beeren](pictures/streuseltörtchen_beeren_gebacken.jpg)
+
+![Streuseltörtchen mit Rhabarber](pictures/streuseltörtchen_rhabarber.jpg)
 
 ## Danksagung
 > Shoutout an Karolina für dieses leckere Rezept!
