@@ -5,7 +5,8 @@
 - 750 g Mehl
 - 90 g Zucker
 - 150 g Butter (vegan), geschmolzen
-- 370 g Pflanzenmilch (handwarm)
+- 370 g Milch (vegan), handwarm
+- 10 g Salz
 - 12 g Trockenhefe (oder 42 g Frischhefe)
 
 ### Zubereitung:
@@ -35,16 +36,16 @@
 ### Zutaten:
 - Rhabarberkompott oder klein geschnittene Äpfel
 - Alternativ: Beeren (z. B. Himbeeren, Blaubeeren)
-- Etwas Pflanzenmilch und Zucker zum Bestreichen
+- Etwas Milch und Zucker zum Bestreichen
 
 ## Fertigstellung
 1. Backofen auf 180 °C (Ober-/Unterhitze) vorheizen.
 2. Teig in ca. 90 g schwere Kugeln portionieren.
 3. Jede Kugel flach drücken und einen Löffel Nussfüllung in die Mitte geben.
-4. Den Rand mit einer Mischung aus Pflanzenmilch und Zucker bestreichen.
+4. Den Rand mit einer Mischung aus Milch und Zucker bestreichen.
 5. Obst (Rhabarberkompott, Äpfel oder Beeren) darauf verteilen.
 6. Streusel darüber verteilen.
-7. Bei 180 °C ca. 20 Minuten backen – immer nur ein Blech gleichzeitig.
+7. Bei 180 °C ca. 20-25 Minuten backen – immer nur ein Blech gleichzeitig.
 
 ## Danksagung
 > Shoutout an Karolina für dieses leckere Rezept!
