@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-npm install -g @anthropic-ai/claude-code markdownlint-cli2
+npm install -g @anthropic-ai/claude-code
