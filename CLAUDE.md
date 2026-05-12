@@ -14,5 +14,5 @@ Rezepte folgen einer einheitlichen deutschsprachigen Markdown-Struktur:
 - `## Abschnitt` — Hauptbestandteile (z. B. `## Zutaten`, `## Zubereitung`, oder benannte Komponenten wie `## Hefeteig`)
 - `### Zutaten:` / `### Zubereitung:` — Zutatenlisten und nummerierte Schritte innerhalb einer Komponente
 - Mengenangaben in metrischen Einheiten (g, mL, °C); `EL` (Esslöffel) und `TL` (Teelöffel) sind für Löffelmaße zulässig
-- Bilder am Ende: `![Alt-Text](pictures/dateiname.jpg)` — `<img src="..." width="...">` nur verwenden, wenn eine Größenanpassung nötig ist; Richtmaß für die Breite ist 700 px
-- Optionaler `## Danksagung`-Block am Ende, um die Rezeptquelle zu würdigen; ganz weglassen, wenn niemand zu nennen ist
+- Optionaler `## Danksagung`-Block, um die Rezeptquelle zu würdigen; ganz weglassen, wenn niemand zu nennen ist
+- Bilder ganz am Ende (nach der Danksagung): `![Alt-Text](pictures/dateiname.jpg)` — `<img src="..." width="...">` nur verwenden, wenn eine Größenanpassung nötig ist; Richtmaß für die Breite ist 700 px
