@@ -1,5 +1,7 @@
 # Vegane Streuseltörtchen (drożdżówki)
 
+Ergibt 14–16 Törtchen
+
 ## Hefeteig
 ### Zutaten:
 - 750 g Mehl
@@ -18,15 +20,16 @@
 ## Nussfüllung
 ### Zutaten:
 - 200 g Cashews (alternativ: Mandeln, Walnüsse o. Ä.)
+- Optional: 30–50 g Zucker, 1 TL Vanille, etwas Zitronenabrieb
 
 ### Zubereitung:
 1. Nüsse kurz kochen, bis sie weich sind.
-2. Abgießen und fein pürieren.
+2. Abgießen, fein pürieren und ggf. mit Zucker, Vanille und Zitronenabrieb abschmecken.
 
 ## Streusel
 ### Zutaten:
 - 150 g Mehl
-- 150 g Puderzucker
+- 150 g Zucker
 - 80 g Butter (vegan), geschmolzen
 
 ### Zubereitung:
@@ -45,13 +48,23 @@
 4. Den Rand mit einer Mischung aus Milch und Zucker bestreichen.
 5. Obst (Rhabarberkompott, Äpfel oder Beeren) darauf verteilen.
 6. Streusel darüber verteilen.
+   > Tipp: Für eine fluffigere Konsistenz die geformten Törtchen vor dem Backen weitere 20–30 Min. abgedeckt gehen lassen.
 7. Bei 180 °C ca. 20-25 Minuten backen – immer nur ein Blech gleichzeitig.
+
+## Zuckerguss (optional)
+### Zutaten:
+- 100 g Puderzucker
+- 1–2 EL Zitronensaft
+
+### Zubereitung:
+1. Puderzucker und Zitronensaft glatt verrühren.
+2. Nach dem Abkühlen über die Törtchen träufeln.
 
 ## Danksagung
 > Shoutout an Karolina für dieses leckere Rezept!
 
-![Streuseltörtchen mit Beeren vor dem Backen](pictures/streuseltörtchen_beeren_vor_backen.jpg)
+<img src="pictures/streuseltörtchen_beeren_vor_backen.jpg" alt="Streuseltörtchen mit Beeren vor dem Backen" width="700">
 
-![Streuseltörtchen mit Beeren](pictures/streuseltörtchen_beeren_gebacken.jpg)
+<img src="pictures/streuseltörtchen_beeren_gebacken.jpg" alt="Streuseltörtchen mit Beeren" width="700">
 
-![Streuseltörtchen mit Rhabarber](pictures/streuseltörtchen_rhabarber.jpg)
+<img src="pictures/streuseltörtchen_rhabarber.jpg" alt="Streuseltörtchen mit Rhabarber" width="700">
