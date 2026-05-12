@@ -1,22 +1,18 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Diese Datei enthält Hinweise für Claude Code (claude.ai/code) beim Arbeiten mit diesem Repository.
 
-## What this repository is
+## Was dieses Repository ist
 
-A personal German-language recipe collection stored as Markdown files. Each recipe is a standalone `.md` file in the root directory. Accompanying photos live in `pictures/`.
+Eine persönliche, deutschsprachige Rezeptsammlung als Markdown-Dateien. Jedes Rezept ist eine eigenständige `.md`-Datei im Hauptverzeichnis. Zugehörige Fotos liegen in `pictures/`.
 
-## Recipe format conventions
+## Format-Konventionen für Rezepte
 
-Recipes follow a consistent German-language Markdown structure:
+Rezepte folgen einer einheitlichen deutschsprachigen Markdown-Struktur:
 
-- `# Title` — recipe name (German, with original-language subtitle in parentheses if applicable)
-- `## Section` — major parts (e.g. `## Zutaten`, `## Zubereitung`, or named components like `## Hefeteig`)
-- `### Zutaten:` / `### Zubereitung:` — ingredient lists and numbered steps within a component
-- Quantities use metric units (g, mL, °C); `EL` (Esslöffel) and `TL` (Teelöffel) are acceptable for spoon measures
-- Images at the bottom: `![Alt text](pictures/filename.jpg)` — use `<img src="..." width="...">` only when resizing is needed
-- Optional `## Danksagung` block at the end to credit the recipe source; omit entirely if there is no one to credit
-
-## Contributing
-
-Per `CONTRIBUTING.md`: only add recipes that are genuinely tasty. Quantities should be as precise as possible. New recipes can be submitted in any format and will be formatted into the standard structure before being added.
+- `# Titel` — Rezeptname (deutsch, ggf. mit Originalsprach-Untertitel in Klammern)
+- `## Abschnitt` — Hauptbestandteile (z. B. `## Zutaten`, `## Zubereitung`, oder benannte Komponenten wie `## Hefeteig`)
+- `### Zutaten:` / `### Zubereitung:` — Zutatenlisten und nummerierte Schritte innerhalb einer Komponente
+- Mengenangaben in metrischen Einheiten (g, mL, °C); `EL` (Esslöffel) und `TL` (Teelöffel) sind für Löffelmaße zulässig
+- Bilder am Ende: `![Alt-Text](pictures/dateiname.jpg)` — `<img src="..." width="...">` nur verwenden, wenn eine Größenanpassung nötig ist; Richtmaß für die Breite ist 700 px
+- Optionaler `## Danksagung`-Block am Ende, um die Rezeptquelle zu würdigen; ganz weglassen, wenn niemand zu nennen ist
