@@ -1,0 +1,14 @@
+{
+  "name": "tasty_recipes",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "DavidAnson.vscode-markdownlint",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-german"
+      ]
+    }
+  }
+}
