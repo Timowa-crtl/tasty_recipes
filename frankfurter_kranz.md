@@ -51,4 +51,4 @@
 ## Danksagung
 > Shoutout an Oma, vielen Dank!
 
-![Frankfurter Kranz](pictures/frankfurter_kranz.jpg)
+<img src="pictures/frankfurter_kranz.jpg" alt="Frankfurter Kranz" width="700">

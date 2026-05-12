@@ -47,5 +47,5 @@
 ## Danksagung
 > Shoutout an [Lutz Geißler](https://www.ploetzblog.de/), vielen Dank!
 
-![Brot in Pfanne](pictures/hausbrot_in_pfanne.jpg)
+<img src="pictures/hausbrot_in_pfanne.jpg" alt="Brot in Pfanne" width="700">
 

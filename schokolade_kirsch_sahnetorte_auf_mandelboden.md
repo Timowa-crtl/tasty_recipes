@@ -38,4 +38,4 @@
 ## Danksagung  
 > Shoutout an meine Mama für dieses leckere Rezept!
 
-![Schokolade-Kirsch-Sahnetorte](pictures/chocolate_cherry_cream_cake_on_almond_base.png)
+<img src="pictures/chocolate_cherry_cream_cake_on_almond_base.png" alt="Schokolade-Kirsch-Sahnetorte" width="700">

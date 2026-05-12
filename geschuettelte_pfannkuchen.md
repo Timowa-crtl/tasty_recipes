@@ -29,4 +29,4 @@
 
 > Tipp: Pfannkuchen sollten frisch gegessen werden, direkt von der Pfanne auf den Teller.
 
-![Pfannkuchen](pictures/shacky_pancake.png)
+<img src="pictures/shacky_pancake.png" alt="Pfannkuchen" width="700">

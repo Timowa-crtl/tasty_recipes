@@ -21,4 +21,4 @@
 6. Die geschälten und klein geschnittenen Äpfel hinzufügen.  
 7. Alles zusammen mindestens 1 Stunde (besser länger) auf niedriger Stufe köcheln lassen, bis Kohl und Äpfel schön sämig sind.  
 
-![Rotkohl mit Äpfeln](pictures/rotkohl_mit_aepfeln.jpg)
+<img src="pictures/rotkohl_mit_aepfeln.jpg" alt="Rotkohl mit Äpfeln" width="700">

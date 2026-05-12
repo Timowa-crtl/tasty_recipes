@@ -34,4 +34,4 @@
 > Shoutout an Janine für dieses leckere Rezept!
 
 <img src="pictures/cock_brand_gelbe_curry_paste.png" alt="Cock Brand, Gelbe Currypaste" width="200">
-<img src="pictures/orange_thai_curry.png" alt="Oranges Thai Curry" width="600">
+<img src="pictures/orange_thai_curry.png" alt="Oranges Thai Curry" width="700">

@@ -27,7 +27,7 @@
 10. Kurz köcheln lassen.
 11. Mit Reis oder Naan servieren.
 
-![Gruenkohl Linsen Curry](pictures/gruenkohl_linsen_curry.jpg)
+<img src="pictures/gruenkohl_linsen_curry.jpg" alt="Gruenkohl Linsen Curry" width="700">
 
 ## Danksagung
 > Shoutout an Janine für dieses leckere Rezept!
