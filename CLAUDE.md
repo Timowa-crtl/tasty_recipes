@@ -16,3 +16,12 @@ Rezepte folgen einer einheitlichen deutschsprachigen Markdown-Struktur:
 - Mengenangaben in metrischen Einheiten (g, mL, °C); `EL` (Esslöffel) und `TL` (Teelöffel) sind für Löffelmaße zulässig
 - Optionaler `## Danksagung`-Block, um die Rezeptquelle zu würdigen; ganz weglassen, wenn niemand zu nennen ist
 - Bilder ganz am Ende (nach der Danksagung): `![Alt-Text](pictures/dateiname.jpg)` — `<img src="..." width="...">` nur verwenden, wenn eine Größenanpassung nötig ist; Richtmaß für die Breite ist 700 px
+
+## Stilkonventionen
+
+- Jeder nummerierte Schritt endet mit einem Punkt
+- Tipps und Hinweise als Blockzitat mit fettem Label: `> **Tipp:** ...`
+- Zahlenbereiche mit Halbgeviertstrich `–` statt Bindestrich (z. B. `14–16 Törtchen`, `20–25 Minuten`)
+- `z. B.` mit Leerzeichen nach dem Punkt
+- Leerzeichen vor Einheiten mit Gradzeichen: `180 °C`, nicht `180°C`
+- Keine Trailing-Whitespaces am Zeilenende

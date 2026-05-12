@@ -48,8 +48,8 @@ Ergibt 14–16 Törtchen
 4. Den Rand mit einer Mischung aus Milch und Zucker bestreichen.
 5. Obst (Rhabarberkompott, Äpfel oder Beeren) darauf verteilen.
 6. Streusel darüber verteilen.
-   > Tipp: Für eine fluffigere Konsistenz die geformten Törtchen vor dem Backen weitere 20–30 Min. abgedeckt gehen lassen.
-7. Bei 180 °C ca. 20-25 Minuten backen – immer nur ein Blech gleichzeitig.
+   > **Tipp:** Für eine fluffigere Konsistenz die geformten Törtchen vor dem Backen weitere 20–30 Min. abgedeckt gehen lassen.
+7. Bei 180 °C ca. 20–25 Minuten backen – immer nur ein Blech gleichzeitig.
 
 ## Zuckerguss (optional)
 ### Zutaten:
