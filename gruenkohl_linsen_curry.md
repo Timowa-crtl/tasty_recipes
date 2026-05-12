@@ -8,7 +8,7 @@
 - 2 Knoblauchzehen
 - 1 Stück Ingwer
 - 2 EL gelbe Currypaste (Cock Brand, "Gelbe Currypaste")
-- 1 Dose Kokosmilch (400 ml)
+- 1 Dose Kokosmilch (400 mL)
 - etwas Wasser
 - 1 Schuss Sojasauce
 - Pfeffer

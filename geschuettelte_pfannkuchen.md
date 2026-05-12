@@ -4,7 +4,7 @@
 ### Zutaten:
 - 3 Eier
 - 150 g Weizenmehl (Type 1050)
-- 300 ml Milch
+- 300 mL Milch
 - 1 TL Backpulver
 - Eine Prise Salz
 
@@ -18,7 +18,7 @@
 - 1 Apfel, vorzugsweise Boskoop
 - Zimt und Zucker
 
-## Zubereitung:
+## Zubereitung
 1. Apfel entkernen und in 4 mm dicke Scheiben schneiden
 2. Etwas Sonnenblumenöl in eine beschichtete Pfanne geben und erhitzen (mittlere Hitze)
 3. Zuerst die Apfelscheiben in die Pfanne geben. Auf einer Seite bräunen lassen und wenden
@@ -28,8 +28,5 @@
 7. Mit Zimt und Zucker bestreuen. Voilà!
 
 > Tipp: Pfannkuchen sollten frisch gegessen werden, direkt von der Pfanne auf den Teller.
-
-## Danksagung
-> Keine
 
 ![Pfannkuchen](pictures/shacky_pancake.png)

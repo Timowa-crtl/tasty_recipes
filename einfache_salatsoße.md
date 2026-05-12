@@ -1,6 +1,6 @@
 # Einfache Salatsoße
 
-## Zutaten:
+## Zutaten
 - Olivenöl
 - Essig (Balsamico, Apfelessig oder Zitronensaft)
 - 1 Knoblauchzehe
@@ -12,7 +12,7 @@
 - Optional: fein gehackte Zwiebeln
 - Optional: 1-2 gehäufte EL Joghurt
 
-## Zubereitung:
+## Zubereitung
 1. In einem Wasserglas zwei Finger breit Olivenöl und genauso viel Essig geben
 2. 1 EL Zucker oder Honig hinzufügen
 3. 1 EL Senf hinzufügen
@@ -24,6 +24,3 @@
 9. Über den Salat geben und gut umrühren (anmachen)
 
 > **Tipp:** Wer Weißwurstsenf oder anderen süßen Senf verwendet, braucht keinen zusätzlichen Zucker oder Honig.
-
-## Acknowledgment
-> None

@@ -1,6 +1,6 @@
 # Rotkohl von Mama
 
-## Zutaten:
+## Zutaten
 - 1 Kopf Rotkohl (fein geraspelt)
 - 1 Zwiebel (kleingeschnitten)
 - 2 EL Butter oder Sonnenblumenöl
@@ -10,9 +10,9 @@
 - 3 ganze Nelken
 - Salz nach Geschmack
 - ca. 1 Tasse Wasser
-- ca. 3 Pfund saure Äpfel (z. B. Boskoop), geschält und klein geschnitten  
+- ca. 1,5 kg saure Äpfel (z. B. Boskoop), geschält und klein geschnitten  
 
-## Zubereitung:
+## Zubereitung
 1. Zwiebel in Butter oder Sonnenblumenöl anschwitzen.  
 2. Den fein geraspelten Rotkohl dazugeben und kurz anrösten.  
 3. Mit einem Schuss Essig ablöschen.  

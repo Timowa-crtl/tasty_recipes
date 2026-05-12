@@ -10,9 +10,9 @@
 - 1 Lauch, in Scheiben geschnitten  
 - 2 EL gelbe Currypaste (Cock Brand, "Gelbe Currypaste")
 - 1 Dose Tomaten (400 g)  
-- 1 Dose Kokosmilch (400 ml)  
+- 1 Dose Kokosmilch (400 mL)  
 - 1 EL Öl  
-- 100 ml Wasser  
+- 100 mL Wasser  
 
 ## Zubereitung  
 1. Zwiebel hacken, Ingwer reiben und Gemüse vorbereiten.  
@@ -21,7 +21,7 @@
 4. Restliches Gemüse zugeben und einige Minuten anbraten.  
 5. Currypaste zugeben und kurz anrösten bis es aromatisch duftet.  
 6. Mit den gehackten Tomaten ablöschen und gut vermischen.  
-7. 100 ml Wasser und 2 EL Kokosmilch zugeben, dann aufkochen lassen.  
+7. 100 mL Wasser und 2 EL Kokosmilch zugeben, dann aufkochen lassen.  
 8. Den gebratenen Tofu zugeben und alles köcheln lassen bis das Gemüse weich aber noch bissfest ist.  
 9. Kurz vor dem Servieren die restliche Kokosmilch zugeben und gut vermischen.  
 10. Mit Salz und Pfeffer abschmecken. Heiß mit Basmatireis servieren.  

@@ -23,7 +23,7 @@
 ### Zutaten:  
 - 1 Glas Kirschen  
 - 1 gehäufter EL Speisestärke  
-- 400 ml Schlagsahne  
+- 400 mL Schlagsahne  
 - Dunkle Schokoladenstreusel  
 
 ### Zubereitung:  

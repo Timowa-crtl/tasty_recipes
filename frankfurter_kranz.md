@@ -42,13 +42,13 @@
 1. Butter schmelzen und mit Zucker und Mandeln mischen
 2. Mandelmischung rösten, bis sie goldbraun ist
 
-## Fertigstellung:
+## Fertigstellung
 1. Den Kranz zweimal quer durchschneiden, sodass drei Lagen entstehen
 2. Die drei Lagen dünn mit Buttercreme bestreichen
 3. Außen herum den Kranz großzügig mit Buttercreme verteilen
 4. Geröstete Mandelmischung auf der Buttercreme verteilen
 
-## Acknowledgment
-> Shoutout and thanks to my grandma
+## Danksagung
+> Shoutout an Oma, vielen Dank!
 
 ![Frankfurter Kranz](pictures/frankfurter_kranz.jpg)

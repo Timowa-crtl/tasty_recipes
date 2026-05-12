@@ -44,8 +44,8 @@
 3. Weitere 40–50 min bei 210 °C backen  
 4. Brot auf einem Gitter auskühlen lassen (mindestens 2 h)
 
-## Acknowledgment
-> Shoutout and thanks to [Lutz Geißler](https://www.ploetzblog.de/)
+## Danksagung
+> Shoutout an [Lutz Geißler](https://www.ploetzblog.de/), vielen Dank!
 
 ![Brot in Pfanne](pictures/hausbrot_in_pfanne.jpg)
 

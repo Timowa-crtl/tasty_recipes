@@ -13,9 +13,9 @@ Recipes follow a consistent German-language Markdown structure:
 - `# Title` — recipe name (German, with original-language subtitle in parentheses if applicable)
 - `## Section` — major parts (e.g. `## Zutaten`, `## Zubereitung`, or named components like `## Hefeteig`)
 - `### Zutaten:` / `### Zubereitung:` — ingredient lists and numbered steps within a component
-- Quantities use metric units (g, mL, °C)
-- Images at the bottom: `![Alt text](pictures/filename.jpg)`
-- Optional `## Danksagung` / `## Acknowledgment` block at the end to credit the recipe source
+- Quantities use metric units (g, mL, °C); `EL` (Esslöffel) and `TL` (Teelöffel) are acceptable for spoon measures
+- Images at the bottom: `![Alt text](pictures/filename.jpg)` — use `<img src="..." width="...">` only when resizing is needed
+- Optional `## Danksagung` block at the end to credit the recipe source; omit entirely if there is no one to credit
 
 ## Contributing
 
